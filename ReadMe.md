@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm currently working as Software Developer<br>I love building new projects in AI<br>I have done Btech in Articial Intelligence and Data Science<br>Passionate about new tech trends<br>currently learning Japenese Language
+<p>I'm a <strong>Software Developer</strong> passionate about building innovative AI projects.</p>
+        <p>I hold a <strong>B.Tech in Artificial Intelligence and Data Science</strong> and enjoy exploring emerging tech trends.</p>
+        <p>Currently, I'm expanding my horizons by <strong>learning Japanese</strong>.</p>
+    </div>
+
 
 
 ## 🌐 Socials:
